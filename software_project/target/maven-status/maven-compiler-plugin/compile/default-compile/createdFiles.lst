@@ -1,0 +1,15 @@
+com\project\benchmark\Benchmark15Bit.class
+com\project\bitpacking\BitPackingFactory$1.class
+com\project\Main.class
+com\project\benchmark\Overflow16Bit.class
+com\project\bitpacking\CrossBitPacking.class
+com\project\benchmark\Benchmark16Bit.class
+com\project\bitpacking\BitPacking.class
+com\project\bitpacking\NoCrossBitPacking.class
+com\project\bitpacking\BitPackingFactory.class
+com\project\bitpacking\OverflowBitPacking.class
+com\project\utils\BitUtils.class
+com\project\bitpacking\BitPackingType.class
+com\project\benchmark\Benchmarker.class
+com\project\bitpacking\AbstractBitPacking.class
+com\project\benchmark\RandomizedArray.class
